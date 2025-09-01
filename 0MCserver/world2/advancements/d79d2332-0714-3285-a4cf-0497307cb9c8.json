@@ -1,0 +1,424 @@
+{
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-06-15 12:33:14 +0800",
+      "inv_changed-diamond": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-06-15 12:33:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-06-15 12:39:52 +0800",
+      "minecraft:river": "2025-06-15 12:33:53 +0800",
+      "minecraft:ocean": "2025-06-15 14:03:20 +0800",
+      "minecraft:windswept_savanna": "2025-06-15 12:33:15 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 12:33:57 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_model": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:34:03 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_task": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:34:58 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_schedule": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:35:00 +0800"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-15 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-15 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-15 12:39:06 +0800",
+      "minecraft:spider": "2025-06-15 12:37:37 +0800",
+      "minecraft:creeper": "2025-06-15 12:38:06 +0800",
+      "minecraft:zombie": "2025-06-15 12:39:41 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-06-15 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/maid_kill_mob": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:38:05 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/pickup_maid": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:39:47 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/kill_maid_fairy": {
+    "criteria": {
+      "killed_entity": "2025-06-15 12:40:41 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/pickup_power_point": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:40:42 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:challenge/eat_enchanted_golden_apple": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:41:05 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-06-15 12:41:19 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-06-15 12:41:42 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-06-15 12:41:53 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:favorability/favorability_increased": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:43:16 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:favorability/favorability_increased_max": {
+    "criteria": {
+      "maid_event": "2025-06-15 12:43:16 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-06-15 12:44:22 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-06-15 14:03:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-15 14:03:51 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

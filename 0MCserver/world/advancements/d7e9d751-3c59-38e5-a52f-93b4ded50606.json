@@ -1,0 +1,1041 @@
+{
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-06-18 18:59:12 +0800",
+      "minecraft:taiga": "2025-06-21 13:22:31 +0800",
+      "minecraft:deep_ocean": "2025-06-16 22:15:28 +0800",
+      "minecraft:frozen_river": "2025-06-21 13:05:51 +0800",
+      "quark:glimmering_weald": "2025-06-17 17:00:16 +0800",
+      "minecraft:sunflower_plains": "2025-06-16 17:44:47 +0800",
+      "minecraft:cherry_grove": "2025-06-18 18:58:53 +0800",
+      "minecraft:birch_forest": "2025-06-18 18:49:04 +0800",
+      "minecraft:windswept_hills": "2025-06-20 10:40:03 +0800",
+      "minecraft:badlands": "2025-06-16 22:40:15 +0800",
+      "minecraft:savanna_plateau": "2025-06-17 10:13:15 +0800",
+      "minecraft:beach": "2025-06-16 08:48:26 +0800",
+      "minecraft:stony_peaks": "2025-06-20 10:46:20 +0800",
+      "minecraft:dark_forest": "2025-06-20 22:56:43 +0800",
+      "minecraft:mangrove_swamp": "2025-06-19 10:41:56 +0800",
+      "minecraft:sparse_jungle": "2025-06-17 09:41:28 +0800",
+      "minecraft:river": "2025-06-16 08:39:39 +0800",
+      "minecraft:lukewarm_ocean": "2025-06-16 22:15:41 +0800",
+      "minecraft:stony_shore": "2025-06-17 09:40:29 +0800",
+      "minecraft:snowy_plains": "2025-06-20 21:57:37 +0800",
+      "minecraft:snowy_taiga": "2025-06-21 13:22:15 +0800",
+      "minecraft:swamp": "2025-06-19 10:41:51 +0800",
+      "minecraft:grove": "2025-06-21 13:23:03 +0800",
+      "minecraft:jagged_peaks": "2025-06-20 21:52:34 +0800",
+      "minecraft:cold_ocean": "2025-06-20 21:54:37 +0800",
+      "minecraft:forest": "2025-06-16 08:39:24 +0800",
+      "minecraft:ice_spikes": "2025-06-20 22:00:05 +0800",
+      "minecraft:frozen_ocean": "2025-06-20 21:57:13 +0800",
+      "minecraft:desert": "2025-06-16 22:40:19 +0800",
+      "minecraft:windswept_forest": "2025-06-16 09:52:03 +0800",
+      "minecraft:ocean": "2025-06-16 08:48:39 +0800",
+      "minecraft:jungle": "2025-06-16 22:16:32 +0800",
+      "minecraft:snowy_beach": "2025-06-20 21:57:34 +0800",
+      "minecraft:windswept_savanna": "2025-06-16 08:38:28 +0800",
+      "minecraft:deep_lukewarm_ocean": "2025-06-16 22:15:35 +0800",
+      "minecraft:flower_forest": "2025-06-19 11:02:13 +0800",
+      "minecraft:frozen_peaks": "2025-06-18 18:59:02 +0800",
+      "minecraft:old_growth_birch_forest": "2025-06-16 08:50:16 +0800",
+      "minecraft:meadow": "2025-06-20 10:40:52 +0800",
+      "minecraft:windswept_gravelly_hills": "2025-06-21 13:16:48 +0800",
+      "minecraft:savanna": "2025-06-16 22:17:41 +0800",
+      "minecraft:plains": "2025-06-16 17:42:24 +0800"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-06-16 08:38:28 +0800",
+      "inv_changed-diamond": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-06-16 08:38:28 +0800"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-16 08:41:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-16 08:41:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-06-16 22:27:29 +0800",
+      "minecraft:pillager": "2025-06-17 09:45:05 +0800",
+      "minecraft:skeleton": "2025-06-16 08:41:52 +0800",
+      "minecraft:ravager": "2025-06-19 10:48:47 +0800",
+      "minecraft:hoglin": "2025-06-19 18:51:46 +0800",
+      "minecraft:guardian": "2025-06-16 08:42:21 +0800",
+      "minecraft:vindicator": "2025-06-21 13:09:38 +0800",
+      "minecraft:magma_cube": "2025-06-21 13:39:30 +0800",
+      "minecraft:spider": "2025-06-17 16:55:00 +0800",
+      "minecraft:creeper": "2025-06-16 09:22:14 +0800",
+      "minecraft:evoker": "2025-06-21 13:11:27 +0800",
+      "minecraft:phantom": "2025-06-16 22:22:53 +0800",
+      "minecraft:witch": "2025-06-22 19:07:13 +0800",
+      "minecraft:wither_skeleton": "2025-06-19 18:52:08 +0800",
+      "minecraft:husk": "2025-06-17 12:57:04 +0800",
+      "minecraft:cave_spider": "2025-06-21 13:14:48 +0800",
+      "minecraft:enderman": "2025-06-16 21:59:59 +0800",
+      "minecraft:stray": "2025-06-20 22:02:53 +0800",
+      "minecraft:vex": "2025-06-21 13:11:25 +0800",
+      "minecraft:zombie": "2025-06-16 08:41:33 +0800",
+      "minecraft:drowned": "2025-06-16 09:00:05 +0800",
+      "minecraft:zombie_villager": "2025-06-16 17:22:13 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-16 08:41:33 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-16 08:42:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-16 08:48:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-16 08:48:55 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-06-16 08:48:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-16 08:50:02 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-16 09:04:54 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-06-16 09:04:54 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/kill_maid_fairy": {
+    "criteria": {
+      "killed_entity": "2025-06-16 09:06:39 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/pickup_power_point": {
+    "criteria": {
+      "maid_event": "2025-06-16 09:06:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-16 09:37:05 +0800"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-06-16 09:39:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-16 09:39:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-16 09:39:58 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-16 09:43:56 +0800"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-06-16 09:56:44 +0800"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-16 09:56:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-16 10:23:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-06-20 22:18:04 +0800",
+      "cooked_mutton": "2025-06-19 11:34:24 +0800",
+      "baked_potato": "2025-06-16 16:54:11 +0800",
+      "apple": "2025-06-16 22:38:48 +0800",
+      "potato": "2025-06-16 18:06:27 +0800",
+      "pumpkin_pie": "2025-06-17 10:17:35 +0800",
+      "bread": "2025-06-17 10:08:42 +0800",
+      "golden_apple": "2025-06-18 19:13:26 +0800",
+      "cookie": "2025-06-17 09:57:12 +0800",
+      "golden_carrot": "2025-06-20 10:38:54 +0800",
+      "mushroom_stew": "2025-06-17 10:24:03 +0800",
+      "carrot": "2025-06-16 22:13:35 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-16 16:54:11 +0800"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-16 17:41:21 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-06-16 17:42:11 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-06-16 17:42:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-16 17:49:12 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_model": {
+    "criteria": {
+      "maid_event": "2025-06-16 18:00:29 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_task": {
+    "criteria": {
+      "maid_event": "2025-06-16 18:00:46 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:base/change_maid_sound": {
+    "criteria": {
+      "maid_event": "2025-06-16 18:01:08 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/switch_schedule": {
+    "criteria": {
+      "maid_event": "2025-06-16 18:02:22 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/maid_feed_animal": {
+    "criteria": {
+      "maid_event": "2025-06-16 18:14:32 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-06-16 21:52:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-16 21:54:06 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-06-16 21:54:06 +0800"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-16 21:55:55 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-16 21:55:55 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-16 21:55:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-16 21:58:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-16 21:58:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-20 09:43:40 +0800",
+      "minecraft:nether_wastes": "2025-06-16 22:01:12 +0800",
+      "minecraft:soul_sand_valley": "2025-06-20 09:47:37 +0800",
+      "minecraft:warped_forest": "2025-06-16 21:58:58 +0800",
+      "minecraft:basalt_deltas": "2025-06-20 09:58:14 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-16 22:18:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-16 22:21:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-16 22:21:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-16 22:25:37 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-06-16 22:35:30 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-16 22:41:14 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-17 09:42:51 +0800"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-06-17 09:55:11 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-17 10:14:10 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/maid_backpack": {
+    "criteria": {
+      "maid_event": "2025-06-17 10:23:05 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-17 10:24:03 +0800"
+    },
+    "done": true
+  },
+  "crockpot:root": {
+    "criteria": {
+      "crock_pot": "2025-06-17 10:32:44 +0800"
+    },
+    "done": true
+  },
+  "crockpot:gnaw_will_be_happy": {
+    "criteria": {
+      "bone_stew": "2025-06-17 10:34:13 +0800"
+    },
+    "done": false
+  },
+  "touhou_little_maid:maid_base/maid_kill_mob": {
+    "criteria": {
+      "maid_event": "2025-06-17 10:37:10 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:challenge/kill_100": {
+    "criteria": {
+      "maid_event": "2025-06-17 12:45:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-17 12:53:23 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-06-17 12:53:23 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-06-17 12:53:23 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-17 12:53:23 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/reborn_maid": {
+    "criteria": {
+      "altar_craft": "2025-06-17 16:32:59 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:favorability/maid_sit_joy": {
+    "criteria": {
+      "maid_event": "2025-06-17 17:17:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-17 21:36:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-17 21:41:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-17 21:41:45 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/maid_fishing": {
+    "criteria": {
+      "maid_event": "2025-06-18 10:30:20 +0800"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-06-18 10:34:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-18 10:35:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-18 10:36:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-18 10:42:17 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-18 11:19:51 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-18 11:20:03 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/photo_maid": {
+    "criteria": {
+      "maid_event": "2025-06-18 11:27:20 +0800"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-18 19:08:45 +0800"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-18 19:08:45 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-06-18 19:12:21 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:maid_base/maid_farm": {
+    "criteria": {
+      "maid_event": "2025-06-19 10:36:44 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-06-19 10:43:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-06-19 10:56:19 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:favorability/favorability_increased": {
+    "criteria": {
+      "maid_event": "2025-06-19 11:16:38 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:favorability/favorability_increased_max": {
+    "criteria": {
+      "maid_event": "2025-06-19 11:16:38 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:challenge/maid_100_healthy": {
+    "criteria": {
+      "maid_event": "2025-06-19 11:16:38 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-19 11:26:31 +0800"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-19 11:28:16 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2025-06-19 11:36:13 +0800"
+    },
+    "done": true
+  },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:red_savanna_grapejuice": "2025-06-19 11:36:13 +0800"
+    },
+    "done": false
+  },
+  "touhou_little_maid:challenge/any_equipment": {
+    "criteria": {
+      "maid_event": "2025-06-19 11:36:22 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-06-19 18:45:54 +0800"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-06-19 18:48:35 +0800"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-19 18:49:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-20 10:24:17 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-06-20 10:26:13 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-20 10:42:24 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-20 10:46:43 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-20 21:32:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-20 21:34:21 +0800"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-06-20 21:39:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-20 21:42:47 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-06-20 21:52:51 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-06-20 21:55:19 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:17:54 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:17:54 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:17:54 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-06-20 22:37:57 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/max_rectified": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:38:46 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:38:46 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:38:46 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:38:46 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-06-20 22:38:46 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-06-20 22:53:08 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-06-21 13:09:10 +0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-06-22 19:09:54 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

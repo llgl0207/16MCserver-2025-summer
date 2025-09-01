@@ -1,0 +1,292 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aquaculture:diamond_fillet_knife": [
+      4804,
+      2.3810277
+    ],
+    "aquaculture:gold_fillet_knife": [
+      6762,
+      0.0039999997
+    ],
+    "aquaculture:iron_fillet_knife": [
+      6480,
+      0.0322
+    ],
+    "aquaculture:neptunium_axe": [
+      3579,
+      5.9057183
+    ],
+    "aquaculture:neptunium_bow": [
+      2,
+      13.389866
+    ],
+    "aquaculture:neptunium_fillet_knife": [
+      6793,
+      8.999999E-4
+    ],
+    "aquaculture:neptunium_sword": [
+      3645,
+      5.767269
+    ],
+    "aquaculture:stone_fillet_knife": [
+      6634,
+      0.0168
+    ],
+    "aquaculture:wooden_fillet_knife": [
+      6728,
+      0.0074
+    ],
+    "aquaculturedelight:neptunium_knife": [
+      3705,
+      5.6411676
+    ],
+    "minecraft:bow": [
+      4234,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      4528,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      3997,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      4059,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      5202,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      6658,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      6721,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      6225,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      6312,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      5302,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      3161,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      3231,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      6252,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      5302,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      6428,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      6536,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      5102,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      4302,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      6612,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      6675,
+      0.0127
+    ]
+  },
+  "OFFHAND": {
+    "minecraft:ender_pearl": [
+      675,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      647,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      275,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      353,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "aquaculture:neptunium_boots": [
+      61,
+      2.2764862
+    ],
+    "minecraft:chainmail_boots": [
+      1388,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      472,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      1454,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      1140,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      1736,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      345,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_boots": [
+      1035,
+      1.0114565
+    ]
+  },
+  "LEGS": {
+    "aquaculture:neptunium_leggings": [
+      61,
+      2.2764862
+    ],
+    "minecraft:chainmail_leggings": [
+      1388,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      472,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      1454,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      1140,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      1736,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      345,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_leggings": [
+      1035,
+      1.0114565
+    ]
+  },
+  "CHEST": {
+    "aquaculture:neptunium_chestplate": [
+      61,
+      2.2764862
+    ],
+    "minecraft:chainmail_chestplate": [
+      1388,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      472,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      1454,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      1140,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      1736,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      345,
+      1.9030677
+    ],
+    "mutantmonsters:mutant_skeleton_chestplate": [
+      1035,
+      1.0114565
+    ],
+    "quark:backpack": [
+      1736,
+      0.0244
+    ]
+  },
+  "HEAD": {
+    "aquaculture:neptunium_helmet": [
+      61,
+      2.2764862
+    ],
+    "minecraft:chainmail_helmet": [
+      1388,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      472,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      1454,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      1140,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      1736,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      345,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      1084,
+      0.948558
+    ],
+    "quark:forgotten_hat": [
+      1736,
+      0.0244
+    ]
+  }
+}
