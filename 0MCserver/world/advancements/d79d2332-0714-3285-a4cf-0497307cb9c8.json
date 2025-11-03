@@ -1156,5 +1156,59 @@
     },
     "done": true
   },
+  "simplyswords:sword_on_a_stick": {
+    "criteria": {
+      "requirement": "2025-09-28 22:11:57 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/playerrange": {
+    "criteria": {
+      "modifier": "2025-09-28 22:34:38 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/spawncount": {
+    "criteria": {
+      "modifier": "2025-09-28 22:33:44 +0800"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-09-28 21:50:35 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:challenge/kill_100": {
+    "criteria": {
+      "maid_event": "2025-09-28 22:38:33 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2025-09-28 22:33:37 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/conditions": {
+    "criteria": {
+      "modifier": "2025-09-28 22:33:45 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/nearbyents": {
+    "criteria": {
+      "modifier": "2025-09-28 22:33:40 +0800"
+    },
+    "done": true
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-09-28 22:09:57 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2,7 +2,7 @@
 #Only available on dedicated servers.
 [server_scheduler]
 	#Concurrent level for processing models. Value 0 means AUTO.
-	#Range: 0 ~ 7
+	#Range: 0 ~ 15
 	ThreadCount = 0
 	#Bandwidth limitation during distributing models to players.(In Mbps)
 	#Range: 1 ~ 999

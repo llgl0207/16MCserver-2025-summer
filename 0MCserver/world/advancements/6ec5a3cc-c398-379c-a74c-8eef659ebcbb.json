@@ -910,9 +910,9 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/enchanter": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "enchanting_table": "2025-06-24 14:35:53 +0800"
+      "wither_skull": "2025-06-24 13:52:07 +0800"
     },
     "done": true
   },
@@ -922,9 +922,9 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:end/respawn_dragon": {
     "criteria": {
-      "wither_skull": "2025-06-24 13:52:07 +0800"
+      "summoned_dragon": "2025-06-24 14:20:14 +0800"
     },
     "done": true
   },
@@ -934,15 +934,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-24 14:35:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2025-06-24 14:52:54 +0800"
     },
     "done": true
   },
-  "minecraft:end/respawn_dragon": {
+  "advancednetherite:nether/netherite_diamond_armor": {
     "criteria": {
-      "summoned_dragon": "2025-06-24 14:20:14 +0800"
+      "netherite_diamond_armor": "2025-09-28 21:54:07 +0800"
     },
     "done": true
   },
