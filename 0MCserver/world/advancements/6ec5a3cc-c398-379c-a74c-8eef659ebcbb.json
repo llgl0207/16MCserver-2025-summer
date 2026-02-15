@@ -397,6 +397,7 @@
       "minecraft:cave_spider": "2025-06-18 09:41:50 +0100",
       "minecraft:piglin": "2025-06-20 10:11:39 +0100",
       "minecraft:enderman": "2025-06-19 16:03:08 +0100",
+      "minecraft:stray": "2026-02-10 12:57:37 +0000",
       "minecraft:vex": "2025-06-21 04:21:36 +0100",
       "minecraft:zombie": "2025-06-16 04:58:46 +0100",
       "minecraft:drowned": "2025-06-16 05:18:48 +0100",
@@ -986,6 +987,30 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2026-02-03 15:56:47 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2026-02-10 07:16:22 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-02-10 07:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2026-02-10 13:00:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-02-10 13:00:40 +0000"
     },
     "done": true
   },

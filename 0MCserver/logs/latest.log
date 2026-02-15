@@ -1,250 +1,58 @@
-[06Feb2026 00:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 00:00:00.039] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 00:30:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 00:30:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 01:00:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 01:00:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 01:30:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 01:30:00.006] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 02:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 02:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 02:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 02:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 03:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 03:00:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 03:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 03:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 04:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 04:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 04:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 04:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 05:00:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 05:00:00.005] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 05:30:00.016] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 05:30:00.016] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 06:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 06:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 06:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 06:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 07:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 07:00:00.005] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 07:30:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 07:30:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 08:00:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 08:00:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 08:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 08:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 09:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 09:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 09:30:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 09:30:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 10:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 10:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 10:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 10:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 11:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 11:00:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 11:30:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 11:30:00.004] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 12:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 12:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 12:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 12:30:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 13:00:00.005] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 13:00:00.005] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 13:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 13:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 14:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 14:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 14:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
-[06Feb2026 14:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
-[06Feb2026 14:35:28.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Draco233_[/127.0.0.1:53391] logged in with entity id 27624 at (-103.5, 63.0, 33.5)
-[06Feb2026 14:35:28.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ joined the game
-[06Feb2026 14:35:29.793] [Server thread/INFO] [Jade/]: Syncing config to Draco233_ (4a36a925-0eab-363e-8781-e9e899170929)
-[06Feb2026 14:35:29.814] [Quark Contributor Loading Thread/ERROR] [quark/]: Failed to load patreon information
-javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Alert.java:130) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:383) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:326) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:321) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:647) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:467) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:363) ~[?:?]
-	at sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:393) ~[?:?]
-	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:477) ~[?:?]
-	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:448) ~[?:?]
-	at sun.security.ssl.TransportContext.dispatch(TransportContext.java:206) ~[?:?]
-	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:172) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223) ~[?:?]
-	at org.violetmoon.quark.base.handler.ContributorRewardHandler$ThreadContributorListLoader.run(ContributorRewardHandler.java:111) ~[%5B夸克%5D%20Quark-4.0-460.jar%23203!/:?]
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:388) ~[?:?]
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:271) ~[?:?]
-	at sun.security.validator.Validator.validate(Validator.java:256) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:230) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:631) ~[?:?]
-	... 17 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:148) ~[?:?]
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:129) ~[?:?]
-	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:297) ~[?:?]
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:383) ~[?:?]
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:271) ~[?:?]
-	at sun.security.validator.Validator.validate(Validator.java:256) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:230) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:631) ~[?:?]
-	... 17 more
-[06Feb2026 14:35:30.663] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4a36a925-0eab-363e-8781-e9e899170929 was loaded
-[06Feb2026 14:35:30.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[06Feb2026 14:35:33.342] [Server thread/INFO] [do_a_barrel_roll/]: Client of Draco233_ accepted server config.
-[06Feb2026 14:37:37.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityFairy['rick'/28038, l='ServerLevel[16]', x=-256.13, y=72.67, z=-31.10] died: rick was killed by model.touhou_little_maid.flandre_scarlet.name using magic
-[06Feb2026 14:37:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ has completed the challenge [Titan-Forged]
-[06Feb2026 14:37:46.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ has completed the challenge [He Wasn't So Strong]
-[06Feb2026 14:37:46.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ has made the advancement [Apothic Affixes]
-[06Feb2026 14:39:32.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Draco233_ lost connection: Disconnected
-[06Feb2026 14:39:32.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ left the game
-[06Feb2026 14:39:32.213] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4a36a925-0eab-363e-8781-e9e899170929 was unloaded
-[06Feb2026 14:39:33.551] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
-[06Feb2026 14:39:33.553] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
-[06Feb2026 14:39:33.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yahooingalaxy[/127.0.0.1:53428] logged in with entity id 28448 at (-84.75287796514164, 64.0, -23.662426651526804)
-[06Feb2026 14:39:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yahooingalaxy joined the game
-[06Feb2026 14:39:33.621] [Server thread/INFO] [Jade/]: Syncing config to Yahooingalaxy (6ec5a3cc-c398-379c-a74c-8eef659ebcbb)
-[06Feb2026 14:39:33.631] [Quark Contributor Loading Thread/ERROR] [quark/]: Failed to load patreon information
-javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Alert.java:130) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:383) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:326) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:321) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:647) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:467) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:363) ~[?:?]
-	at sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:393) ~[?:?]
-	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:477) ~[?:?]
-	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:448) ~[?:?]
-	at sun.security.ssl.TransportContext.dispatch(TransportContext.java:206) ~[?:?]
-	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:172) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223) ~[?:?]
-	at org.violetmoon.quark.base.handler.ContributorRewardHandler$ThreadContributorListLoader.run(ContributorRewardHandler.java:111) ~[%5B夸克%5D%20Quark-4.0-460.jar%23203!/:?]
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:388) ~[?:?]
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:271) ~[?:?]
-	at sun.security.validator.Validator.validate(Validator.java:256) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:230) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:631) ~[?:?]
-	... 17 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:148) ~[?:?]
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:129) ~[?:?]
-	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:297) ~[?:?]
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:383) ~[?:?]
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:271) ~[?:?]
-	at sun.security.validator.Validator.validate(Validator.java:256) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:230) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:631) ~[?:?]
-	... 17 more
-[06Feb2026 14:39:34.449] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6ec5a3cc-c398-379c-a74c-8eef659ebcbb was loaded
-[06Feb2026 14:39:37.392] [Server thread/INFO] [do_a_barrel_roll/]: Client of Yahooingalaxy accepted server config.
-[06Feb2026 14:40:10.979] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
-[06Feb2026 14:40:10.985] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
-[06Feb2026 14:40:10.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Draco233_[/127.0.0.1:53432] logged in with entity id 29026 at (-202.7624738407695, 63.0, 79.31696104953664)
-[06Feb2026 14:40:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ joined the game
-[06Feb2026 14:40:11.061] [Server thread/INFO] [Jade/]: Syncing config to Draco233_ (4a36a925-0eab-363e-8781-e9e899170929)
-[06Feb2026 14:40:11.077] [Quark Contributor Loading Thread/ERROR] [quark/]: Failed to load patreon information
-javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.ssl.Alert.createSSLException(Alert.java:130) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:383) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:326) ~[?:?]
-	at sun.security.ssl.TransportContext.fatal(TransportContext.java:321) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:647) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:467) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:363) ~[?:?]
-	at sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:393) ~[?:?]
-	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:477) ~[?:?]
-	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:448) ~[?:?]
-	at sun.security.ssl.TransportContext.dispatch(TransportContext.java:206) ~[?:?]
-	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:172) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
-	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
-	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223) ~[?:?]
-	at org.violetmoon.quark.base.handler.ContributorRewardHandler$ThreadContributorListLoader.run(ContributorRewardHandler.java:111) ~[%5B夸克%5D%20Quark-4.0-460.jar%23203!/:?]
-Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:388) ~[?:?]
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:271) ~[?:?]
-	at sun.security.validator.Validator.validate(Validator.java:256) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:230) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:631) ~[?:?]
-	... 17 more
-Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:148) ~[?:?]
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:129) ~[?:?]
-	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:297) ~[?:?]
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:383) ~[?:?]
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:271) ~[?:?]
-	at sun.security.validator.Validator.validate(Validator.java:256) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:230) ~[?:?]
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132) ~[?:?]
-	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:631) ~[?:?]
-	... 17 more
-[06Feb2026 14:40:11.748] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4a36a925-0eab-363e-8781-e9e899170929 was loaded
-[06Feb2026 14:40:12.572] [Server thread/INFO] [do_a_barrel_roll/]: Client of Draco233_ accepted server config.
-[06Feb2026 14:40:36.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ was slain by Yahooingalaxy using [Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Habdonprim's Thunderstruck Fiery Brand of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting of Bloodletting]
-[06Feb2026 14:40:38.861] [Server thread/INFO] [do_a_barrel_roll/]: Client of Draco233_ accepted server config.
-[06Feb2026 14:40:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Draco233_> ？
-[06Feb2026 14:40:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Draco233_> 这什么鬼
-[06Feb2026 14:41:09.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
-[06Feb2026 14:41:15.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yahooingalaxy moved too quickly! 9.612397325556316,0.0,-2.930367320158723
-[06Feb2026 14:41:15.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Draco233_ moved too quickly! 3.003333583474145,-3.165092877954251,9.146279543166678
-[06Feb2026 14:42:11.986] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[06Feb2026 14:42:12.962] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[06Feb2026 14:44:25.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yahooingalaxy lost connection: Disconnected
-[06Feb2026 14:44:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yahooingalaxy left the game
-[06Feb2026 14:44:27.443] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6ec5a3cc-c398-379c-a74c-8eef659ebcbb was unloaded
-[06Feb2026 14:44:34.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Draco233_ lost connection: Disconnected
-[06Feb2026 14:44:34.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Draco233_ left the game
-[06Feb2026 14:44:34.465] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4a36a925-0eab-363e-8781-e9e899170929 was unloaded
-[06Feb2026 14:44:45.780] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d19ecaf[id=<null>,name=mrpckannan,properties={},legacy=false] (/127.0.0.1:53576) lost connection: Disconnected
-[06Feb2026 14:44:45.782] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f02c1f6[id=<null>,name=Draco233_,properties={},legacy=false] (/127.0.0.1:53582) lost connection: Disconnected
-[06Feb2026 14:44:45.783] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4df74a1c[id=<null>,name=Yahooingalaxy,properties={},legacy=false] (/127.0.0.1:53584) lost connection: Disconnected
-[06Feb2026 14:44:45.784] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2073b55b[id=<null>,name=mrpckannan,properties={},legacy=false] (/127.0.0.1:53596) lost connection: Disconnected
-[06Feb2026 14:44:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c90daa5[id=<null>,name=Draco233_,properties={},legacy=false] (/127.0.0.1:53603) lost connection: Disconnected
-[06Feb2026 14:44:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6554a3b0[id=<null>,name=Draco233_,properties={},legacy=false] (/127.0.0.1:53587) lost connection: Disconnected
-[06Feb2026 14:44:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1204b2ac[id=<null>,name=mrpckannan,properties={},legacy=false] (/127.0.0.1:53601) lost connection: Disconnected
-[06Feb2026 14:44:45.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f6004da[id=<null>,name=mrpckannan,properties={},legacy=false] (/127.0.0.1:53626) lost connection: Disconnected
-[06Feb2026 14:44:45.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58fa661[id=<null>,name=Yahooingalaxy,properties={},legacy=false] (/127.0.0.1:53637) lost connection: Disconnected
-[06Feb2026 14:45:26.264] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID bb68b7de-55bd-4c1f-8e94-d7c7793fc24f
-[06Feb2026 14:45:28.031] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ae21934a-0013-47b5-bd64-13215c12aace
-[06Feb2026 14:45:28.260] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: E:\16MCserver-2025-summer\0MCserver\.\crash-reports\crash-2026-02-06_14.45.27-server.txt
-[06Feb2026 14:45:30.047] [Server thread/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Shutdown Complete
-[06Feb2026 14:45:31.201] [Server thread/INFO] [luckperms/]: Starting shutdown process...
-[06Feb2026 14:45:32.929] [Server thread/INFO] [luckperms/]: Closing storage...
-[06Feb2026 14:45:34.193] [Server thread/INFO] [luckperms/]: Goodbye!
-[06Feb2026 14:45:36.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06Feb2026 14:45:36.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06Feb2026 14:45:36.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Feb2026 00:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 00:00:00.042] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 00:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 00:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 01:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 01:00:00.003] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 01:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 01:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 02:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 02:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 02:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 02:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 03:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 03:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 03:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 03:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 04:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 04:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 04:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 04:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 05:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 05:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 05:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 05:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 06:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 06:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 06:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 06:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 07:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 07:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 07:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 07:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 08:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 08:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 08:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 08:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 09:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 09:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 09:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 09:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 10:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 10:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 10:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 10:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 11:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 11:00:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 11:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 11:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 12:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 12:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 12:30:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 12:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 13:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 13:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 13:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 13:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
+[15Feb2026 14:00:00.000] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[15Feb2026 14:00:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
